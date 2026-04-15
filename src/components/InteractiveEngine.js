@@ -724,7 +724,7 @@ const InteractiveEngine = () => {
               <div 
                 className="avatar-placeholder" 
                 style={{ 
-                  backgroundImage: 'url(/amanpic.jpeg)',
+                  backgroundImage: `url(${process.env.PUBLIC_URL}/amanpic.jpeg)`,
                   color: 'transparent'
                 }}
               >AK</div>
@@ -735,7 +735,7 @@ const InteractiveEngine = () => {
               <div 
                 className="avatar-placeholder" 
                 style={{ 
-                  backgroundImage: 'url(/atharvvit.jpg)',
+                  backgroundImage: `url(${process.env.PUBLIC_URL}/atharvvit.jpg)`,
                   color: 'transparent'
                 }}
               >AV</div>
@@ -753,7 +753,7 @@ const InteractiveEngine = () => {
                 className="avatar-placeholder prof-avatar" 
                 style={{ 
                   border: '3px solid var(--accent-color)',
-                  backgroundImage: 'url(/faculty.jpg)',
+                  backgroundImage: `url(${process.env.PUBLIC_URL}/faculty.jpg)`,
                   backgroundSize: 'cover',
                   backgroundPosition: 'center',
                   color: 'transparent'
