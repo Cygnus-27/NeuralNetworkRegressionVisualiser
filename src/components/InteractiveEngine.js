@@ -1,13 +1,13 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { Scatter } from 'react-chartjs-2';
-import { Chart as ChartJS, LinearScale, PointElement, LineElement, Tooltip, Legend } from 'chart.js';
+import { Chart as ChartJS, LinearScale, PointElement, LineElement, Tooltip, Legend, LineController } from 'chart.js';
 import { MLP } from '../engine/NeuralNet';
 import { DataScaler } from '../engine/DataScaler';
 import AlgorithmTracer from './AlgorithmTracer';
 import ToolHeader from './ToolHeader';
 import InfoModal from './InfoModal';
 
-ChartJS.register(LinearScale, PointElement, LineElement, Tooltip, Legend);
+ChartJS.register(LinearScale, PointElement, LineElement, Tooltip, Legend, LineController);
 
 const InteractiveEngine = () => {
   const [dataPoints, setDataPoints] = useState([]);
