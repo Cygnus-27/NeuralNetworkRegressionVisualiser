@@ -1,26 +1,60 @@
-# AI Sandbox: Neural Network Regression
+# Neural Core: AI Regression Sandbox
 
-A robust interactive React sandbox mapping the mathematical core of Artificial Neural Networks exactly onto standard 1-Dimensional regression boundaries. 
+A high-performance, interactive educational platform designed for real-time surgical-grade backpropagation monitoring and neural network topology exploration. 
 
-The tool exposes the "black box" of Machine Learning natively inside the browser, allowing you to manually manipulate hyperparameters, design layered topologies sequentially, and directly witness mathematically accurate Stochastic Gradient Descent mappings natively responding to any generic domain dataset structure.
+**Neural Core** exposes the "black box" of Machine Learning by mapping the mathematical engine of Artificial Neural Networks directly onto continuous regression boundaries, entirely natively in the browser.
 
-## Core Features
+---
 
-- **Dynamic Topology Builder**: Add, edit, or strip sequential hidden layers seamlessly mapping node density structures over your dataset exactly live.
-- **Custom Data Ingestion Matrix**: Support for loading `.csv` files or sequentially injecting structural Cartesian X-Y domains one-by-one. The network adapts natively, dynamically attempting to retrain existing weight biases mapping to new data structures exactly! 
-- **Real-Time Visualization Hooks**: Built entirely relying on `react-chartjs-2`, observe Epoch runs explicitly step-down gradient errors dynamically visually graphing predicting outcomes continuously. 
-- **Analytical Theory Core**: Inbuilt parameter-theory metrics explicitly isolating exactly what Overfitting parameters occur structurally.
+## 🌌 Project Overview
 
-## How to Run the Matrix Server
+Developed as a specialized academic tool, the **Neural Core Sandbox** allows researchers and students to visualize the **Universal Approximation Theorem** in action. By manipulating hyperparameters and observing the real-time behavioral mapping of stochastic gradient descent, users can gain an intuitive understanding of how deep learning architectures normalize, extract features, and minimize MSE loss.
 
-Getting the environment running is super simple. From your terminal inside the project directory:
+### 💎 Key Features
 
-```bash
-# 1. Install standard dependencies
-npm install
+- **Dynamic Topology Architect**: Real-time construction of sequential hidden layers with variable node density.
+- **Surgical-Grade Monitoring**: Step-by-step algorithmic trace showing weighted sums, activation outputs, and gradient calculations.
+- **Robust Data Ingress**: Seamless support for `.csv` research data, synthetic data generation, and manual point injection.
+- **Model Generalization (Inference)**: Live inference engine to test model predictive accuracy on unseen traffic metrics.
+- **High-Density Visuals**: Professional "Jet Black and Blue" aesthetic with glassmorphism UI components and hardware-accelerated charting.
 
-# 2. Boot the interface
-npm start
-```
+---
 
-The live AI environment will launch automatically at `http://localhost:3000`.
+## 🛠 Technical Stack
+
+- **Core**: React 19 / JavaScript (ES6+)
+- **Neural Engine**: Custom-built `NeuralNet` implementation (No black-box libraries like TensorFlow/PyTorch).
+- **Visualization**: `chart.js` / `react-chartjs-2`
+- **Aesthetics**: Vanilla CSS with custom theme engine mirroring IDE-grade dark modes.
+
+---
+
+## 🚀 Deployment & Local Setup
+
+To deploy the Neural Core environment locally:
+
+1. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
+
+2. **Launch Sandbox**:
+   ```bash
+   npm start
+   ```
+
+3. **Production Build**:
+   ```bash
+   npm run build
+   ```
+
+The application will be served at `http://localhost:3000`.
+
+---
+
+## 🎓 Credits
+
+**Developed By:** Aman Kajla & Atharv Verma  
+**Guided By:** Dr. Swaminathan Annadurai  
+
+*VIT University - School of Computer Science and Engineering.*
