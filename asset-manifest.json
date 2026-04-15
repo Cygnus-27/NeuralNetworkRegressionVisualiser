@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NeuralNetworkRegressionVisualiser/static/css/main.dd18ad0f.css",
+    "main.js": "/NeuralNetworkRegressionVisualiser/static/js/main.aeae2d9d.js",
+    "static/js/453.a51c8237.chunk.js": "/NeuralNetworkRegressionVisualiser/static/js/453.a51c8237.chunk.js",
+    "index.html": "/NeuralNetworkRegressionVisualiser/index.html",
+    "main.dd18ad0f.css.map": "/NeuralNetworkRegressionVisualiser/static/css/main.dd18ad0f.css.map",
+    "main.aeae2d9d.js.map": "/NeuralNetworkRegressionVisualiser/static/js/main.aeae2d9d.js.map",
+    "453.a51c8237.chunk.js.map": "/NeuralNetworkRegressionVisualiser/static/js/453.a51c8237.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd18ad0f.css",
+    "static/js/main.aeae2d9d.js"
+  ]
+}
