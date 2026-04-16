@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/NeuralNetworkRegressionVisualiser/static/css/main.dd18ad0f.css",
-    "main.js": "/NeuralNetworkRegressionVisualiser/static/js/main.e3955202.js",
+    "main.js": "/NeuralNetworkRegressionVisualiser/static/js/main.cfe5b4d1.js",
     "static/js/453.a51c8237.chunk.js": "/NeuralNetworkRegressionVisualiser/static/js/453.a51c8237.chunk.js",
     "index.html": "/NeuralNetworkRegressionVisualiser/index.html",
     "main.dd18ad0f.css.map": "/NeuralNetworkRegressionVisualiser/static/css/main.dd18ad0f.css.map",
-    "main.e3955202.js.map": "/NeuralNetworkRegressionVisualiser/static/js/main.e3955202.js.map",
+    "main.cfe5b4d1.js.map": "/NeuralNetworkRegressionVisualiser/static/js/main.cfe5b4d1.js.map",
     "453.a51c8237.chunk.js.map": "/NeuralNetworkRegressionVisualiser/static/js/453.a51c8237.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd18ad0f.css",
-    "static/js/main.e3955202.js"
+    "static/js/main.cfe5b4d1.js"
   ]
 }
