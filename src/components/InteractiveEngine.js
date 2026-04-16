@@ -709,7 +709,30 @@ const InteractiveEngine = () => {
               ></iframe>
             </div>
           </div>
+
+          <h3 style={{ margin: '40px 0 20px' }}>Academic References</h3>
+          <div style={{ background: 'rgba(255,255,255,0.02)', padding: '25px', borderRadius: '12px', border: '1px solid var(--panel-border)' }}>
+            <ul style={{ listStyle: 'none', padding: 0, margin: 0, fontSize: '0.85rem', lineHeight: '1.8', color: 'var(--text-secondary)' }}>
+              <li style={{ marginBottom: '10px' }}>
+                <span style={{ color: 'var(--accent-color)' }}>[1]</span> Bishop, C. M. (2006). <strong>Pattern Recognition and Machine Learning</strong>. Springer. 
+                <br/><em style={{ opacity: 0.7 }}>The definitive guide to Bayesian treatment and linear models in ML.</em>
+              </li>
+              <li style={{ marginBottom: '10px' }}>
+                <span style={{ color: 'var(--accent-color)' }}>[2]</span> Goodfellow, I., Bengio, Y., & Courville, A. (2016). <strong>Deep Learning</strong>. MIT Press.
+                <br/><em style={{ opacity: 0.7 }}>Comprehensive coverage of modern multi-layer perceptron architectures.</em>
+              </li>
+              <li style={{ marginBottom: '10px' }}>
+                <span style={{ color: 'var(--accent-color)' }}>[3]</span> Haykin, S. (2009). <strong>Neural Networks and Learning Machines</strong>. Pearson.
+                <br/><em style={{ opacity: 0.7 }}>Focuses on the signal-processing perspective of regression networks.</em>
+              </li>
+              <li>
+                <span style={{ color: 'var(--accent-color)' }}>[4]</span> Nielsen, M. A. (2015). <strong>Neural Networks and Deep Learning</strong>. Determination Press.
+                <br/><em style={{ opacity: 0.7 }}>Visual-heavy guide to backpropagation and gradient descent.</em>
+              </li>
+            </ul>
+          </div>
         </div>
+
       </InfoModal>
 
       <InfoModal
